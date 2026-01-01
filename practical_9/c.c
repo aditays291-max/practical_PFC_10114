@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-// ADITI RATHORE
-// ERP NO. 10071
+// Aditya Singh Thaku
+// ERP NO. 10114
 
 int main() {
   int n, i, sum = 0;
